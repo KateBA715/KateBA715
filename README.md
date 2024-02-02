@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KateBA715
+- 👋 Hi there! I’m Kathryn Araya, @KateBA715
 - I am currently a Data Science student at Florida State College @ Jacksonville seeking an A.S. in Data Science, while my career goals are in Database Administration and Data Analysis.
 -  
 - 👀 I’m interested in learning Python, SAS, SQL, PowerBi, Tableau, Excel, 
