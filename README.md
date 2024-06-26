@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning Python, SAS, SQL, PowerBi, Tableau, Excel, 
 - 🌱 I’m currently learning Python and continuing honing my skills in the tools mentioned. 
 - 💞️ I’m looking to collaborate on any project that I could learn and be of assistance in displaying my skills as well as the skills of others who are looking to enhance our portfolios. 
-- 📫 How to reach me kathryn@voyagerdesigns.net/ s2131615@students.fscj.edu
+- 📫 How to reach me kathryn@voyagerdesigns.net/ s2131615@students.fscj.edu/ kathrynaraya@outlook.com
 
 <!---
 KateBA715/KateBA715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
