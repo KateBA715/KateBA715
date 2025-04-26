@@ -5,8 +5,8 @@ Hi there! I’m Kathryn—a dedicated data enthusiast, tech problem-solver, and 
 ---
 
 ## 📚 **About Me**
--  Earned an AS in Data Science (December 2024) 
-- 🎓 Currently pursuing a **Bachelor of Applied Science in Information Systems** (Expected May 2026) 
+- 🎓 **Earned** an **Associate in Science in Data Science** (December 2024).
+- 🎓 Currently pursuing a **Bachelor of Applied Science in Information Systems** (Expected May 2026).
 - 💻 Skilled in tools and languages such as **SQL**, **R**, **Python**, **Power BI**, **Tableau**, **Excel**, and more.
 - 🛠 Continuously improving my abilities through hands-on projects and certifications, with a focus on both technical expertise and customer impact.
 
