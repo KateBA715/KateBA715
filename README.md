@@ -1,5 +1,3 @@
-# Kathryn's Data Portfolio 🎯
-
 # Welcome to Kathryn's GitHub Portfolio! 👋
 
 Hi there! I’m Kathryn—a dedicated data enthusiast, tech problem-solver, and lifelong learner. My GitHub serves as a showcase of my diverse technical journey, encompassing projects in data analysis, visualization, programming, and more. With a background that blends technical expertise with customer-focused roles, I am passionate about turning raw data into actionable insights and elegant solutions.
