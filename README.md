@@ -1,70 +1,54 @@
 # Kathryn's Data Portfolio 🎯
 
-Welcome to my portfolio repository! This space showcases projects that demonstrate my skills in **data analytics**, **visualization**, and **programming**, using a variety of tools and technologies. Each project reflects a unique approach to solving problems and presenting insights in meaningful ways.
+# Welcome to Kathryn's GitHub Portfolio! 👋
 
-## 🌟 Featured Projects
-
-### 1. **Creating R Script**
-- **Objective**: Explored data manipulation and statistical analysis using R.
-- **Skills**: Data cleaning, creating reproducible scripts, and running calculations efficiently.
-- **Tools**: RStudio, ggplot2, dplyr.
-
-### 2. **Financial Report: Global Sales of Bike Gear**
-- **Objective**: Delivered an in-depth financial analysis of global sales performance.
-- **Skills**: Analyzed trends, identified high-performing regions, and visualized revenue streams.
-- **Tools**: Power BI (pbix), PDF reporting.
-
-### 3. **Global Sales Lineage Visualization**
-- **Objective**: Created a clear lineage visualization to showcase connections across sales data.
-- **Skills**: Data structuring and visual storytelling.
-- **Tools**: PowerPoint (PPT), custom graphics.
-
-### 4. **Plot Lines Using Bokeh**
-- **Objective**: Developed interactive visualizations to explore patterns within the dataset.
-- **Skills**: Python programming, dynamic plot creation, and leveraging Bokeh libraries.
-- **Tools**: Python (Jupyter Notebook), Bokeh.
-
-### 5. **Python Project: COLAB Dash Flask**
-- **Objective**: Designed a Python-based web application using Dash and Flask frameworks.
-- **Skills**: Advanced programming, interactive dashboards, and backend integration.
-- **Tools**: Python (Google Colab, Flask, Dash).
-
-### 6. **Sales Data by Country**
-- **Objective**: Analyzed country-specific sales data to uncover actionable insights.
-- **Skills**: Regional data analysis, visual trend identification.
-- **Tools**: Power BI (pbix), PDF reporting.
+Hi there! I’m Kathryn—a dedicated data enthusiast, tech problem-solver, and lifelong learner. My GitHub serves as a showcase of my diverse technical journey, encompassing projects in data analysis, visualization, programming, and more. With a background that blends technical expertise with customer-focused roles, I am passionate about turning raw data into actionable insights and elegant solutions.
 
 ---
 
-## 🔧 Tools and Technologies
-I work with an extensive range of technologies to drive impactful results:
-- **Programming Languages**: Python, R, SQL.
-- **Data Visualization Tools**: Power BI, Tableau, Excel, Bokeh.
-- **Presentation Tools**: PowerPoint (PPT).
-- **Libraries**: Flask, Dash, ggplot2, dplyr.
+## 📚 **About Me**
+- 🎓 Currently pursuing a **Bachelor of Applied Science in Information Systems** (Expected May 2026) and an **Associate in Data Science** (Expected Dec 2024).
+- 💻 Skilled in tools and languages such as **SQL**, **R**, **Python**, **Power BI**, **Tableau**, **Excel**, and more.
+- 🛠 Continuously improving my abilities through hands-on projects and certifications, with a focus on both technical expertise and customer impact.
 
 ---
 
-## 📂 Repository Structure
-- **Project Folders**: Each project has its own folder containing source files, visuals, and detailed documentation.
-- **README.md**: Includes project descriptions, tools used, and key learnings.
-- **Visuals**: Data visualizations and lineage diagrams are presented as PDFs or images.
+## 💼 **Projects & Highlights**
+Here are a few examples of the exciting work you'll find in my repositories:
+- **Data Analytics**: Comprehensive analysis of restaurant menus using SQL, showcasing customer behavior insights to optimize performance.
+- **Interactive Visualizations**: Engaging dashboards and reports using **Power BI**, **Tableau**, and **Excel** to bring data to life.
+- **Python Development**: Projects involving Flask, Dash, and data visualization libraries like Matplotlib and Bokeh.
+- **R Programming**: Statistical and data manipulation scripts that explore trends and deliver insights.
+- **Financial Reporting**: In-depth sales performance reports for global product analysis with clear visuals and actionable outcomes.
 
 ---
 
-## 🚀 About Me
-Having recently earned an Associate in Data Science, I am actively pursuing a Bachelor of Applied Science in Information Systems while exploring advanced technical and customer-facing roles. My passion lies in using structured data and tools to optimize decision-making and drive innovation.
+## 🚀 **My Skill Set**
+- **Programming & Data Analysis**:
+  - SQL | Python | R
+- **Visualization & Reporting**:
+  - Power BI | Tableau | Excel | Matplotlib | Bokeh
+- **Technical Proficiency**:
+  - MySQL | System troubleshooting | Database management
+- **Soft Skills**:
+  - Adaptable, detail-oriented, and customer-focused with strong problem-solving abilities.
 
 ---
 
-## 🗂 Future Additions
-- **Excel-Based Projects**: Advanced analytics and automation techniques will be added soon to further diversify the portfolio.
-- **Interactive Dashboards**: Future projects will include web-based dashboards hosted on platforms like Tableau Public or Flask.
+## 🌟 **What I’m Working On**
+- Building a polished portfolio of projects that showcase real-world applications of data analysis and visualization.
+- Enhancing my skills in advanced SQL, R programming, and Python for business intelligence solutions.
+- Experimenting with new datasets and creating impactful stories through data-driven insights.
 
 ---
 
-### 📢 Contact
-Feel free to reach out to learn more or collaborate!
-- **Email**: [kathrynaraya@outlook.com]
-- **GitHub**: [https://github.com/KateBA715](https://github.com/KateBA715)
-- 
+## 🌐 **Let’s Connect**
+- **GitHub**: Follow me here to stay updated with my latest projects and ideas.
+- **LinkedIn**: [[Add your LinkedIn profile link here](https://www.linkedin.com/in/kathrynaraya715)] for professional updates and networking.
+- **Email**: Feel free to reach out at [kathrynaraya@outlook.com] for collaboration or inquiries.
+
+---
+✨ Thank you for visiting! I’m always excited to connect with like-minded professionals and grow together—whether through data projects, technical challenges, or creative explorations. ✨
+
+
+
