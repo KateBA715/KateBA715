@@ -43,7 +43,7 @@ Here are a few examples of the exciting work you'll find in my repositories:
 
 ## 🌐 **Let’s Connect**
 - **GitHub**: Follow me here to stay updated with my latest projects and ideas.
-- **LinkedIn**: [[Add your LinkedIn profile link here](https://www.linkedin.com/in/kathrynaraya715)] for professional updates and networking.
+- **LinkedIn**: [(https://www.linkedin.com/in/kathrynaraya715)](https://www.linkedin.com/in/kathrynaraya715)] for professional updates and networking.
 - **Email**: Feel free to reach out at [kathrynaraya@outlook.com] for collaboration or inquiries.
 
 ---
